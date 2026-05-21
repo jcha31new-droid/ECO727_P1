@@ -6,14 +6,11 @@ export default function ContactForm() {
         <label>Nombre:</label>
         <input type="text" placeholder="Tu nombre" required />
 
-
         <label>Correo:</label>
         <input type="email" placeholder="Tu correo" required />
 
-
         <label>Mensaje:</label>
         <textarea placeholder="Escribe tu mensaje"></textarea>
-
 
         <button type="submit">Enviar</button>
       </form>

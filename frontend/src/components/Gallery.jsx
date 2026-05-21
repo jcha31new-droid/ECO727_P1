@@ -7,7 +7,6 @@ export default function Gallery() {
                 <img className="img-gallery" src="/assets/AQUI_INSERTAR_CARPETA_Y_ARCHIVO" alt="Texto"/>
                 <img className="img-gallery" src="/assets/AQUI_INSERTAR_CARPETA_Y_ARCHIVO" alt="Texto" />
 
-
             </div>
         </section>
     );

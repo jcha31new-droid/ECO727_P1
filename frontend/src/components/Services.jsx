@@ -22,7 +22,6 @@ export default function Services() {
                         <td>Dato 3</td>
                     </tr>
 
-
                     <tr>
                         <td>Dato 1</td>
                         <td>Dato 2 </td>
