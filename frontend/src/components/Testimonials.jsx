@@ -1,24 +1,27 @@
 export default function Testimonials() {
   return (
     <section id="testimonios">
-      <h2>Testimonios / Casos de Éxito</h2>
+      <h2>Casos de Éxito</h2>
       <br />
-      <p> Texto
-        <br /><br />
-        Texto
-        <br /><br />
-
-        <ul type="none">
-          <li>• Punto 1</li>
-          <br />
-          <li>• Punto 2</li>
-          <br /><li>•Punto 3</li>
-          <br /><li>•Punto 4</li>
-          <br /><li>•Punto 5</li>
-          <br /><li>• Punto 6</li>
-        </ul>
-
-      </p>
+      <p><strong>Participación en eventos y torneos</strong></p>
+        <table id="table1" border="1">
+          <tr>
+            <td>Participación en la "Aventura Científica y Tecnológica"</td>
+            <td><img className="img-gallery2" src="/imagenes/aventura.jpg" alt="Aventura Científica"/></td>
+          </tr>
+          <tr>
+            <td>Torneo "TOCHITO BANDERA" etapa estatal</td>
+            <td><img className="img-gallery2" src="/imagenes/tochito.jpg" alt="Tochito Bandera"/></td>
+          </tr>
+          <tr>
+            <td>Centenario de la Educación Secundaria<br></br>Feria Científica</td>
+            <td><img className="img-gallery2" src="/imagenes/cientifica.jpg" alt="Feria Científica"/></td>
+          </tr>
+          <tr>
+            <td>Centenario de la Educación Secundaria<br></br>Feria Tecnológica</td>
+            <td><img className="img-gallery2" src="/imagenes/tecnologica.jpg" alt="Feria Tecnológica"/></td>
+          </tr>
+        </table>
     </section>
   );
 }

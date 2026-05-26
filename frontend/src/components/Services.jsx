@@ -12,20 +12,20 @@ export default function Services() {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Dato 1</td>
-                        <td>Dato 2</td>
-                        <td>Dato 3</td>
+                        <td>Credencial</td>
+                        <td>Reposición por robo o extravío</td>
+                        <td>$10.00</td>
                     </tr>
                     <tr>
-                        <td>Dato 1</td>
-                        <td>Dato 2</td>
-                        <td>Dato 3</td>
+                        <td>Examen</td>
+                        <td>Examen extraordinario mayo 2026</td>
+                        <td>$30.00</td>
                     </tr>
 
                     <tr>
-                        <td>Dato 1</td>
-                        <td>Dato 2 </td>
-                        <td>Dato 3</td>
+                        <td>Constancia</td>
+                        <td>Constancia de estudios para trámites</td>
+                        <td>$25</td>
                     </tr>
                 </tbody>
             </table>

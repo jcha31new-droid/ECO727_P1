@@ -2,7 +2,7 @@ export default function ContactForm() {
   return (
     <section id="contacto">
       <h2>Formulario de Contacto</h2>
-      <form action="mailto:INSERTAR_CORREO" method="post" encType="text/plain">
+      <form action="mailto:jcha31@hotmail.com" method="post" encType="text/plain">
         <label>Nombre:</label>
         <input type="text" placeholder="Tu nombre" required />
 

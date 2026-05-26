@@ -8,7 +8,7 @@ export default function Navbar() {
         <a href="#servicios">| Servicios | </a>
         <a href="#galeria">| Galería | </a>
         <a href="#testimonios">| Testimonios | </a>
-        <a href="#tema">| Tema | </a>
+        <a href="#contacto">| Contacto | </a>
         </nav>
     </header>
   );

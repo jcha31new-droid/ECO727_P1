@@ -35,7 +35,7 @@ img {
 
 /* ======== NAVBAR ======== */
 header {
-  background-color: #5f0015;
+  background-color: #800040;
   padding: 1rem 0;
 }
 
@@ -90,6 +90,13 @@ iframe {
 }
 
 .img-gallery,
+.img-gallery2 {
+  width: 20%;
+  border: 1px solid #800040;
+  border-radius: 20px;
+  padding: 0px;
+}
+
 .video-gallery {
   width: 100%;
   border-radius: 10px;
@@ -112,6 +119,11 @@ table {
   text-align: center;
 }
 
+#table1 {
+  width: 70%;
+  background-color: #ffffff;
+}
+
 th,
 td {
   padding: 0.8rem;
@@ -119,7 +131,7 @@ td {
 }
 
 th {
-  background-color: #005f52;
+  background-color: #800040;
   color: white;
   font-weight: bold;
 }
@@ -147,7 +159,7 @@ form textarea {
 form button {
   display: block;
   width: 100%;
-  background-color: #005f52;
+  background-color: #800040;
   color: white;
   border: none;
   padding: 1rem;
@@ -158,12 +170,12 @@ form button {
 }
 
 form button:hover {
-  background-color: #00453d;
+  background-color: #D4AF37;
 }
 
 /* ======== FOOTER ======== */
 footer {
-  background-color: #00453d;
+  background-color: #800040;
   color: white;
   text-align: center;
   padding: 1rem;
