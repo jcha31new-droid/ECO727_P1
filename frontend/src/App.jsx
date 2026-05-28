@@ -32,7 +32,7 @@ function App() {
         <p><strong>Organigrama</strong></p>
         <img className='Logo' src="/imagenes/organigrama.jpg" alt="TEXTO" />
         
-        <p><strong>Himno a Escuelas Secundarias Tecnicas</strong></p><br></br>
+        <p><strong>Himno a Escuelas Secundarias Técnicas</strong></p><br></br>
         <iframe width="560" height="320" src="https://www.youtube.com/embed/WhVdVIza5D8?si=YO_zHNiF7rKrgZls" ></iframe>   
       </section>
 

@@ -1,7 +1,7 @@
 export default function Services() {
     return (
         <section id="servicios">
-            <h2>Servicios</h2>
+            <h2>Servicios Administrativos</h2>
             <table>
                 <thead>
                     <tr>
