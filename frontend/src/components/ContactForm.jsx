@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-
 export default function ContactForm() {
   const [nombre, setNombre] = useState("");
   const [correo, setCorreo] = useState("");
