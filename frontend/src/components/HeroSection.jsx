@@ -3,7 +3,7 @@ export default function HeroSection() {
         <section id="inicio" className="hero">
             <h1>DIRECCIÓN GENERAL DE EDUCACIÓN SECUNDARIA TÉCNICA</h1>
             <br />
-            <p>Escuela Secundaria Técnica No. 83 "Igancio Zaragoza Seguín"</p>
+            <p>Escuela Secundaria Técnica No. 83 "IGNACIO ZARAGOZA SEGUÍN"</p>
             <br />
             <img src="/imagenes/escudo.jpg" alt="Texto" />
 
